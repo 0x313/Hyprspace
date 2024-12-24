@@ -27,4 +27,3 @@ output = "Hyprspace.so"
 build = [
     "make all"
 ]
-254fc2bc6000075f660b4b8ed818a6af544d1d64
